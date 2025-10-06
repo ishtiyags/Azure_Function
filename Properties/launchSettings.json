@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "TableStorageFunction": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7179",
+      "launchBrowser": false
+    }
+  }
+}
